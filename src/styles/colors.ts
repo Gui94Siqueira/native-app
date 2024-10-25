@@ -2,8 +2,8 @@ export const colors = {
   white: "#FFFFFF",
   black: "#000000",
 
-  green: {
-    400: "#70E1C1",
+  primary: {
+    400: "#FBD6C6",
     500: "#3ECF8F",
   },
 
